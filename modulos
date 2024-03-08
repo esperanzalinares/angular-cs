@@ -1,0 +1,10 @@
+Por definicion un modulo no es más que un archivo js
+
+Cualquier cosa clase, funcion, constante, etc es privada
+excepto que se exporte
+
+export
+import
+
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/import
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/export
